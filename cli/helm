@@ -1,0 +1,1 @@
+go run helm.sh/helm/v3/cmd/helm@v3.12.1
