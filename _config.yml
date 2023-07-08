@@ -12,7 +12,9 @@
 # theme: slate
 # theme: tactile
 # theme: time machine
-
 # remote_theme: THEME-NAME
 # remote_theme: pages-themes/architect@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
 remote_theme: cotes2020/jekyll-theme-chirpy@v6.1.0
