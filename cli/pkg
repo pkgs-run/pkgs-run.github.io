@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -e
+all="$@"
+cmd="$(echo $all | cut -d ' ' -f 1)"
+gorun="$(curl -sL https://pkgs.run/cli/$1)"
+shift
+arg=$@
+$gorun $arg
