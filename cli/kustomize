@@ -1,0 +1,1 @@
+go run sigs.k8s.io/kustomize/kustomize/v5@v5.1.0
