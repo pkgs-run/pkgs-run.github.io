@@ -1,0 +1,18 @@
+# theme: minima
+# theme: architect
+# theme: cayman
+# theme: dinky
+# theme: hacker
+# theme: leap day
+# theme: merlot
+# theme: midnight
+# theme: minima
+# theme: minimal
+# theme: modernist
+# theme: slate
+# theme: tactile
+# theme: time machine
+
+# remote_theme: THEME-NAME
+# remote_theme: pages-themes/architect@v0.2.0
+remote_theme: cotes2020/jekyll-theme-chirpy@v6.1.0
