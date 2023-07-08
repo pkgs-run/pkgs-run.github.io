@@ -1,0 +1,1 @@
+go run github.com/charmbracelet/gum@f048bd8d87b19afa6860655d6dbe7a1f17ee1cc0 spin --show-output --spinner minidot --title "Checking for outdated brew packages" --
