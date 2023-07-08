@@ -1,0 +1,1 @@
+go run github.com/ahmetb/kubectx/cmd/kubectx@v0.9.4
