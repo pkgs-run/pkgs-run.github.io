@@ -1,0 +1,4 @@
+---
+oras: oras.land/oras/cmd/oras@v1.0.0
+capictl: sigs.k8s.io/cluster-api/cmd/clusterctl@v1.4.4
+clusterctl: go run golang.org/dl/go1.20.1@latest run -ldflags "-X 'sigs.k8s.io/cluster-api/version.gitMajor=1' -X 'sigs.k8s.io/cluster-api/version.gitMinor=4' -X 'sigs.k8s.io/cluster-api/version.gitVersion=v1.4.4'"  sigs.k8s.io/cluster-api/cmd/clusterctl@v1.4.4
