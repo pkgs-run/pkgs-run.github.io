@@ -1,0 +1,1 @@
+go run go.etcd.io/etcd/etcdctl/v3/ctlv3@v3.5.9
