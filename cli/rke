@@ -1,0 +1,1 @@
+go run github.com/hashicorp/go-getter/cmd/go-getter@v1.7.1 -mode=dir -progress=false 'github.com/rancher/rke?ref=v1.4.7' $(go env GOPATH)/src/github.com/rancher/rke && go run -C $(go env GOPATH)/src/github.com/rancher/rke .
