@@ -1,1 +1,3 @@
-# pkgs-run.github.io
+{{ range os.ReadDir "." }}
+  {{ .Name }}
+{{ end }}
