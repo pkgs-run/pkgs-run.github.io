@@ -1,0 +1,1 @@
+go run github.com/barnybug/go-cast/cmd/cast@latest
