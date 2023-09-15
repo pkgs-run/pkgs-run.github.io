@@ -1,0 +1,1 @@
+GOTOOLCHAIN=go1.21.1+auto go run sigs.k8s.io/cluster-api/cmd/clusterctl@v1.5.1
